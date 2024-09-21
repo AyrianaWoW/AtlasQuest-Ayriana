@@ -1,3 +1,5 @@
+THIS FORK IS OBSOLETE, USE THE MAIN ATLASQUEST FORK
+
 AddOn: AtlasQuest
 
 Version: 4.1.5
